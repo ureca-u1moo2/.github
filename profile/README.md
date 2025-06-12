@@ -14,13 +14,13 @@
 
 ## 👥 팀원 소개
 
-|문태신(조장)|장승범|신수현|이도연|
-|:-:|:-:|:-:|:-:|
-| 사진 <br/> [@taeaeaexin](https://github.com/taeaeaexin) </br> Backoffice | 사진 <br/> [@JSeungBeom](https://github.com/JSeungBeom) <br/> Message Storage | 사진 <br/> [@suhyun9764](https://github.com/suhyun9764) <br/> Chat | 사진 <br/> [@doyeonLee-Luna](https://github.com/doyeonLee-Luna) <br/> Product |
+//|문태신(조장)|장승범|신수현|이도연|
+//|:-:|:-:|:-:|:-:|
+//| 사진 <br/> [@taeaeaexin](https://github.com/taeaeaexin) </br> Backoffice | 사진 <br/> [@JSeungBeom](https://github.com/JSeungBeom) <br/> Message Storage | 사진 <br/> [@suhyun9764](https://github.com/suhyun9764) <br/> Chat | 사진 <br/> [@doyeonLee-Luna](https://github.com/doyeonLee-Luna) <br/> Product |
 
-|하령경|허승현|정성빈|
-|:-:|:-:|:-:|
-| 사진 <br/> [@rxgx424](https://github.com/rxgx424) <br/> Auth & Session | 사진 <br/> [@HSH-11](https://github.com/HSH-11) <br/> Logging & Analytics | 사진 <br/> [@tjdqls3607](https://github.com/tjdqls3607) <br/> NLP |
+//|하령경|허승현|정성빈|
+//|:-:|:-:|:-:|
+//| 사진 <br/> [@rxgx424](https://github.com/rxgx424) <br/> Auth & Session | 사진 <br/> [@HSH-11](https://github.com/HSH-11) <br/> Logging & Analytics | 사진 <br/> [@tjdqls3607](https://github.com/tjdqls3607) <br/> NLP |
 
 <br/>
 
