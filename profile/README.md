@@ -15,7 +15,7 @@
 ## 👥 팀원 소개
 |문태신(조장)|장승범|신수현|이도연|
 |:-:|:-:|:-:|:-:|
-|  사진<br /> <br/> [@taeaeaexin](https://github.com/taeaeaexin) </br> Backoffice |  사진 <br/> [@JSeungBeom](https://github.com/JSeungBeom) <br/> Message Storage |  사진<br/> [@suhyun9764](https://github.com/suhyun9764) <br/> Chat |  사진 <br/> [@doyeonLee-Luna](https://github.com/doyeonLee-Luna)Product |
+|  사진<br /> <br/> [@taeaeaexin](https://github.com/taeaeaexin) </br> Backoffice |  사진 <br/> [@JSeungBeom](https://github.com/JSeungBeom) <br/> Message Storage |  사진<br/> [@suhyun9764](https://github.com/suhyun9764) <br/> Chat |  사진 <br/> [@doyeonLee-Luna](https://github.com/doyeonLee-Luna)<br/>Product |
 
 |하령경|허승현|정성빈|
 |:-:|:-:|:-:|
