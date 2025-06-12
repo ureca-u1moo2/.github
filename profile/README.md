@@ -15,10 +15,7 @@
 ## 👥 팀원 소개
 |문태신(조장)|장승범|신수현|이도연|
 |:-:|:-:|:-:|:-:|
-|  <img src="https://i.imgur.com/FvDXAXD.png" width="100px" height="100px" style="border-radius: 50%; object-fit: cover;" alt="Team Member 1"/><br /> <br/> [@taeaeaexin](https://github.com/taeaeaexin) </br> Backoffice 
-|  <img src="https://i.imgur.com/Qy3qpsX.gif" width="100px" height="100px" style="border-radius: 50%; object-fit: cover;" alt="Team Member 4"/> <br/> [@JSeungBeom](https://github.com/JSeungBeom) <br/> Message Storage 
-|  <img src="https://i.imgur.com/9pysR8B.png" width="100px" height="100px" style="border-radius: 50%; object-fit: cover;" alt="Team Member 2"/> <br/> [@suhyun9764](https://github.com/suhyun9764) <br/> Chat 
-|  <img src="https://i.imgur.com/2MNf32S.png" width="100px" height="100px" style="border-radius: 50%; object-fit: cover;" alt="Team Member 3"/> <br/> [@doyeonLee-Luna](https://github.com/doyeonLee-Luna) <br/> Product |
+|  사진<br /> <br/> [@taeaeaexin](https://github.com/taeaeaexin) </br> Backoffice |  사진 <br/> [@JSeungBeom](https://github.com/JSeungBeom) <br/> Message Storage |  사진<br/> [@suhyun9764](https://github.com/suhyun9764) <br/> Chat |  사진 <br/> Product |
 
 |하령경|허승현|정성빈|
 |:-:|:-:|:-:|
