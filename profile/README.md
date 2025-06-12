@@ -36,7 +36,7 @@
 <br/>
 
 ## 🧱 아키텍처
-
+![Image](https://github.com/user-attachments/assets/caf50ff7-edb3-4146-945d-9efea8818f7e)
 <br/>
 
 ## 🧩 ERD
