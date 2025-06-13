@@ -15,7 +15,7 @@
 ## 👥 팀원 소개
 |문태신(조장)|장승범|신수현|이도연|
 |:-:|:-:|:-:|:-:|
-|  사진<br /> <br/> [@taeaeaexin](https://github.com/taeaeaexin) </br> Backoffice |  사진 <br/> [@JSeungBeom](https://github.com/JSeungBeom) <br/> Message Storage |  사진<br/> [@suhyun9764](https://github.com/suhyun9764) <br/> Chat |  사진 <br/> [@doyeonLee-Luna](https://github.com/doyeonLee-Luna)<br/>Product |
+|  사진 <br/> [@taeaeaexin](https://github.com/taeaeaexin) </br> Backoffice |  사진 <br/> [@JSeungBeom](https://github.com/JSeungBeom) <br/> Message Storage |  사진 <br/> [@suhyun9764](https://github.com/suhyun9764) <br/> Chat |  사진 <br/> [@doyeonLee-Luna](https://github.com/doyeonLee-Luna) <br/> Product |
 
 |하령경|허승현|정성빈|
 |:-:|:-:|:-:|
@@ -29,44 +29,37 @@
 
 ## 🚀 주요 기능
 
-|기능|설명|
-|-|-|
-|||
+| 기능 | 설명 |
+| - | - |
+| 회원가입/로그인 |  |
+| 이메일/비밀번호 찾기 |  |
+| 보안 |  |
+| 마이페이지 |  |
+| 요금제 검색/비교 |  |
+| AI |  |
 
 <br/>
 
 ## 🧱 아키텍처
 ![Image](https://github.com/user-attachments/assets/caf50ff7-edb3-4146-945d-9efea8818f7e)
+
 <br/>
 
 ## 🧩 ERD
 ![Image](https://github.com/user-attachments/assets/a09a8256-b4ed-488e-95ee-3e1b2071f580)
+
 <br/>
 
 ## 🛠️ 기술 스택
-<div align="center">
 
-### Backend
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![JPA](https://img.shields.io/badge/JPA-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
-
-### Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-
-### AI/ML
-![Gemini](https://img.shields.io/badge/Gemini%20API-4285F4?style=for-the-badge&logo=google&logoColor=white)
-
-### DevOps & Monitoring
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kibana](https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=kibana&logoColor=white)
+| 분야 | 스택 |
+| - | - |
+| Backend | [![stackticon](https://firebasestorage.googleapis.com/v0/b/stackticon-81399.appspot.com/o/images%2F1749775896881?alt=media&token=bf88811d-de5e-44a9-ac47-f1d39dfaf909)](https://github.com/msdio/stackticon) |
+| Frontend | [![stackticon](https://firebasestorage.googleapis.com/v0/b/stackticon-81399.appspot.com/o/images%2F1749777590165?alt=media&token=f55b0807-cadc-46e8-bea0-14fd84d9e809)](https://github.com/msdio/stackticon) |
+| AI/ML | [![stackticon](https://firebasestorage.googleapis.com/v0/b/stackticon-81399.appspot.com/o/images%2F1749777641448?alt=media&token=c616d550-0ac0-4652-8225-894a2c5f77d4)](https://github.com/msdio/stackticon) |
+| DevOps & Monitoring | [![stackticon](https://firebasestorage.googleapis.com/v0/b/stackticon-81399.appspot.com/o/images%2F1749777655750?alt=media&token=303f4505-1227-4b19-a884-bbf1e491f99c)](https://github.com/msdio/stackticon) |
 
 </div>
-
----
-<br/>
 
 ## 📂 프로젝트 구조
 
