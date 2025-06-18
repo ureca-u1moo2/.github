@@ -55,7 +55,8 @@
 <br/>
 
 ## 🧩 ERD
-![Image](https://github.com/user-attachments/assets/a09a8256-b4ed-488e-95ee-3e1b2071f580)
+<!-- ![Image](https://github.com/user-attachments/assets/a09a8256-b4ed-488e-95ee-3e1b2071f580) -->
+![Image](https://i.imgur.com/3zgwToA.png)
 
 <br/>
 
