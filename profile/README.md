@@ -32,7 +32,7 @@
 
 |하령경|허승현|정성빈|
 |:-:|:-:|:-:|
-| <img src="https://github.com/user-attachments/assets/82a7efd4-1765-4683-a36e-b6b2a06491ab" height=150 width=150> <br/> [@rxgx424](https://github.com/rxgx424) <br/> Auth & Session | <img src="https://github.com/user-attachments/assets/0ae674b1-7fe3-463b-81b5-04336f694968" height=150 width=150> <br/> [@HSH-11](https://github.com/HSH-11) <br/> Logging & Analytics | <img src="https://github.com/user-attachments/assets/0ae674b1-7fe3-463b-81b5-04336f694968" height=150 width=150> <br/> [@tjdqls3607](https://github.com/tjdqls3607) <br/> NLP |
+| <img src="https://github.com/user-attachments/assets/61d26e87-3fb4-4099-a698-03b5b3e314da" height=150 width=150> <br/> [@rxgx424](https://github.com/rxgx424) <br/> Auth & Session | <img src="https://github.com/user-attachments/assets/0ae674b1-7fe3-463b-81b5-04336f694968" height=150 width=150> <br/> [@HSH-11](https://github.com/HSH-11) <br/> Logging & Analytics | <img src="https://github.com/user-attachments/assets/0ae674b1-7fe3-463b-81b5-04336f694968" height=150 width=150> <br/> [@tjdqls3607](https://github.com/tjdqls3607) <br/> NLP |
 
 
 </br>
