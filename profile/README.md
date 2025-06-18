@@ -28,7 +28,7 @@
 
 | 문태신(조장) | 장승범 | 신수현 | 이도연 |
 |:--:|:--:|:--:|:--:|
-| <img src="https://github.com/user-attachments/assets/f888c69e-4453-43fe-b1da-0e386d3f48da" heigth=150 width=150> <br/> [@taeaeaexin](https://github.com/taeaeaexin) </br> Backoffice |  <img src="https://github.com/user-attachments/assets/f888c69e-4453-43fe-b1da-0e386d3f48da" heigth=150 width=150> <br/> [@JSeungBeom](https://github.com/JSeungBeom) <br/> Message Storage |  <img src="https://github.com/user-attachments/assets/f888c69e-4453-43fe-b1da-0e386d3f48da" heigth=150 width=150> <br/> [@suhyun9764](https://github.com/suhyun9764) <br/> Chat |  <img src="https://github.com/user-attachments/assets/f888c69e-4453-43fe-b1da-0e386d3f48da" heigth=150 width=150> <br/> [@doyeonLee-Luna](https://github.com/doyeonLee-Luna) <br/> Product |
+| <img src="https://github.com/user-attachments/assets/f888c69e-4453-43fe-b1da-0e386d3f48da" heigth=150 width=150> <br/> [@taeaeaexin](https://github.com/taeaeaexin) </br> Backoffice |  <img src="https://github.com/user-attachments/assets/f888c69e-4453-43fe-b1da-0e386d3f48da" heigth=150 width=150> <br/> [@JSeungBeom](https://github.com/JSeungBeom) <br/> Message Storage |  <img src="https://github.com/user-attachments/assets/f888c69e-4453-43fe-b1da-0e386d3f48da" heigth=150 width=150> <br/> [@suhyun9764](https://github.com/suhyun9764) <br/> Chat |  <img src="https://i.imgur.com/2MNf32S.png" heigth=150 width=150> <br/> [@doyeonLee-Luna](https://github.com/doyeonLee-Luna) <br/> Product |
 
 |하령경|허승현|정성빈|
 |:-:|:-:|:-:|
@@ -46,9 +46,9 @@
 | 회원가입/로그인 | - JWT 인증 방식 </br> - 이런식으로 작성 |
 | 이메일/비밀번호 찾기 |  |
 | 보안 |  |
-| 마이페이지 |  |
-| 요금제 검색/비교 |  |
-| AI |  |
+| 마이페이지 |  | - 가입한 요금제 조회 </br> - 월별 사용량 조회 </br> - 회원 정보 조회
+| 요금제 검색/비교 |  | - 요금제 목록(인기순/데이터/가격순) 조회 가능 </br> - 요금제 상세 정보 페이지 </br> - 요금제 비교 페이지
+| AI |  | - 요금제 상세페이지 내 리뷰 요약 AI </br>
 
 ### Admin
 | 기능 | 설명 |
