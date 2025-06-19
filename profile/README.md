@@ -21,7 +21,7 @@
 - 🗂️ Redis 와 MongoDB를 활용한 대화 내역 저장 및 분석  
 - 🛡️ 백오피스의 금칙어 관리, 사용자 및 요금제 분석 AI를 통한 서비스 품질 향상  
 - 📊 Elsaticsearch + Kibana 연동으로 사용자 행동 로그 시각화 및 분석
-
+---
 </br>
 
 ## 👥 팀원 소개
@@ -33,7 +33,7 @@
 |하령경|허승현|정성빈|
 |:-:|:-:|:-:|
 | <img src="https://github.com/user-attachments/assets/61d26e87-3fb4-4099-a698-03b5b3e314da" height=150 width=150> <br/> [@rxgx424](https://github.com/rxgx424) <br/> Auth & Session | <img src="https://github.com/user-attachments/assets/0ae674b1-7fe3-463b-81b5-04336f694968" height=150 width=150> <br/> [@HSH-11](https://github.com/HSH-11) <br/> Logging & Analytics | <img src="https://github.com/user-attachments/assets/8cd0c571-acbe-4f7b-b36c-0f78f1d0fbd2" height=150 width=150> <br/> [@tjdqls3607](https://github.com/tjdqls3607) <br/> NLP |
-
+---
 
 ## 💡 프로젝트 소개
 
@@ -93,6 +93,7 @@
 </td>
 </tr>
 </table>
+---
 </div>
 
 
