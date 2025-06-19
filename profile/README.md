@@ -36,6 +36,8 @@
 
 ## 🚀 주요 기능
 
+<table style="width: 100%; table-layout: fixed;">
+<tr>
 
 
 ### Main
