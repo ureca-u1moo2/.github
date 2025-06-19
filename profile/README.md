@@ -36,41 +36,40 @@
 
 ## 🚀 주요 기능
 
-<table style="width: 100%; table-layout: fixed;">
+<table>
 <tr>
-<td style="width: 48%; vertical-align: top; padding-right: 1%">
+<td style="width: 49%; vertical-align: top; border-right: 1px solid #ccc; padding-right: 10px;">
 
-### Main
+<h3>Main</h3>
 
-<table style="width: 100%;">
+<table>
 <tr><th>기능</th><th>설명</th></tr>
 <tr><td>회원가입/로그인</td><td>JWT 인증 방식<br>RTR 방식</td></tr>
-<tr><td>이메일/비밀번호 찾기</td><td>사용자 정보로 이메일 찾기<br>이메일로 비밀번호 재설정 링크 전송</td></tr>
+<tr><td>이메일/비밀번호 찾기</td><td>이메일 찾기<br>비밀번호 재설정 링크 전송</td></tr>
 <tr><td>보안</td><td>Spring Security 기반 접근 제한</td></tr>
-<tr><td>마이페이지</td><td>가입한 요금제 조회<br>월별 사용량 조회<br>회원 정보 확인</td></tr>
-<tr><td>요금제 검색/비교</td><td>요금제 목록(인기순/데이터/가격순)<br>요금제 상세 페이지<br>요금제 비교</td></tr>
-<tr><td>AI</td><td>챗봇 맞춤 상담<br>요금제 상세페이지 내 리뷰 요약</td></tr>
+<tr><td>마이페이지</td><td>가입 요금제, 사용량, 정보 조회</td></tr>
+<tr><td>요금제 검색/비교</td><td>요금제 목록/상세/비교 페이지</td></tr>
+<tr><td>AI</td><td>챗봇 상담, 리뷰 요약</td></tr>
 </table>
 
 </td>
-<td style="width: 48%; vertical-align: top; padding-left: 1%">
 
-### Admin
+<td style="width: 49%; vertical-align: top; padding-left: 10px;">
 
-<table style="width: 100%;">
+<h3>Admin</h3>
+
+<table>
 <tr><th>기능</th><th>설명</th></tr>
 <tr><td>관리자 로그인</td><td>JWT 인증 방식<br>RTR 방식</td></tr>
-<tr><td>대시보드</td><td>챗봇 로그 기반 실시간 분석<br>의도·응답시간 지표 모니터링</td></tr>
+<tr><td>대시보드</td><td>챗봇 로그 시각화<br>의도/응답시간 모니터링</td></tr>
 <tr><td>사용자 분석</td><td>회선 기반 사용자 분석</td></tr>
-<tr><td>요금제 분석</td><td>요금제 리스트 출력·검색·정렬<br>AI 분석 통한 개선점 파악</td></tr>
+<tr><td>요금제 분석</td><td>요금제 리스트·검색·정렬<br>AI 분석 기반 개선안 도출</td></tr>
 <tr><td>금칙어 관리</td><td>금칙어 리스트</td></tr>
 </table>
 
 </td>
 </tr>
 </table>
-
-
 
 
 
