@@ -38,9 +38,10 @@
 </br>
 
 
+
 ## 🚀 주요 기능
 
-
+<div align="center">
 
 ### Main
 | 기능 | 설명 |
@@ -61,6 +62,7 @@
 | 요금제 분석 | - 모든 요금제 리스트 출력, 검색 및 정렬 필터 </br> - ~~~을 사용한 요금제 어떻게 어떻게 분석 |
 | 금칙어 관리 | - 금칙어 리스트 </br> |
 
+</div>
 
 https://github.com/suhyun9764/planit/blob/dev/README.md
 이거 참고해서 씁시다
