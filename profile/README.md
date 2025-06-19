@@ -37,14 +37,13 @@
 
 </br>
 
-## 🚀 주요 기능
+<h2>🚀 주요 기능</h2>
 
 <table>
   <tr>
     <td valign="top" width="50%">
 
       <h3 align="center">🧑‍💻 Main</h3>
-
       <table>
         <tr><th>기능</th><th>설명</th></tr>
         <tr><td>회원가입/로그인</td><td>JWT 인증 방식<br>RTR 방식</td></tr>
@@ -59,7 +58,6 @@
     <td valign="top" width="50%">
 
       <h3 align="center">🛠 Admin</h3>
-
       <table>
         <tr><th>기능</th><th>설명</th></tr>
         <tr><td>회원가입/로그인</td><td>JWT 인증 방식<br>RTR 방식</td></tr>
@@ -72,6 +70,7 @@
     </td>
   </tr>
 </table>
+
 
 이거 참고해서 씁시다</br>
 
