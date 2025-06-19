@@ -117,6 +117,12 @@ https://github.com/suhyun9764/planit/blob/dev/README.md
 </div>
 
 #### ✅ 금주 수행 내용
+- [x] 요금제·유저 AI 분석
+- [x] 상태 머신 적용, 성향 분석 로직 구현
+- [x] 요금제 목록·상세·비교·리뷰 프론트 구현
+- [x] AI 유저 요약 분석 기능 프롬프트 고도화, 프로젝트 배포 세팅
+- [x] 관리자 프로젝트에서 금칙어 관리 CRUD 구현
+- [x] ResTemplate -> WebClient 비동기 처리
 - [x] 토픽 분류 정확도 개선을 위한 프롬프트 리팩토링
 
 
