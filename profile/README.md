@@ -56,7 +56,7 @@
 | Gemini AI | 사용 성향 맞춤 분석 | 지능형 대화 시스템 |
 
 </div>
-
+---
 ## 🚀 주요 기능
 <div align="center">
 <table>
