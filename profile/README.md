@@ -119,9 +119,9 @@
 ### DevOps & Monitoring
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kibana](https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=kibana&logoColor=white)
-
-</div>
 ---
+</div>
+
 </div>
 
 
