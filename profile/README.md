@@ -38,7 +38,7 @@
 
 <table style="width: 100%; table-layout: fixed;">
 <tr>
-
+<td style="width: 48%; vertical-align: top; padding-right: 1%">
 
 ### Main
 
