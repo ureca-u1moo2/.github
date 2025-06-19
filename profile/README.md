@@ -35,6 +35,28 @@
 | <img src="https://github.com/user-attachments/assets/61d26e87-3fb4-4099-a698-03b5b3e314da" height=150 width=150> <br/> [@rxgx424](https://github.com/rxgx424) <br/> Auth & Session | <img src="https://github.com/user-attachments/assets/0ae674b1-7fe3-463b-81b5-04336f694968" height=150 width=150> <br/> [@HSH-11](https://github.com/HSH-11) <br/> Logging & Analytics | <img src="https://github.com/user-attachments/assets/8cd0c571-acbe-4f7b-b36c-0f78f1d0fbd2" height=150 width=150> <br/> [@tjdqls3607](https://github.com/tjdqls3607) <br/> NLP |
 
 
+## 💡 프로젝트 소개
+
+### 🎯 프로젝트 목적
+> 챗봇 기반 요금제·기종 추천 서비스 및 관리자용 통합 관리 시스템 구축을 통해 사용자에게 최적화된 통신 서비스를 제공
+
+- 🗣️ **자연어 상담**을 통한 맞춤형 요금제 추천
+- 🛡️ **금칙어 관리, 사용자 분석** 및 관리자 백오피스를 통한 서비스 품질 향상
+- 🧠 **대화 토픽 분류**를 통한 질문 문맥 기반 대화 가능
+- 🗂️ **Redis 와 MongoDB**를 활용한 대화 내역 저장 및 분석
+- 📊 **Elsaticsearch + Kibana** 연동으로 사용자 행동 로그 시각화 및 분석
+
+
+### ✨ 핵심 차별점
+
+<div align="center">
+  
+| 🤖 AI 기반 분석 | 🎯 개인화 추천 | 💬 멀티턴 대화 |
+|:---:|:---:|:---:|
+| Gemini AI | 사용 성향 맞춤 분석 | 지능형 대화 시스템 |
+
+</div>
+
 ## 🚀 주요 기능
 <div align="center">
 <table>
