@@ -34,42 +34,42 @@
 |:-:|:-:|:-:|
 | <img src="https://github.com/user-attachments/assets/61d26e87-3fb4-4099-a698-03b5b3e314da" height=150 width=150> <br/> [@rxgx424](https://github.com/rxgx424) <br/> Auth & Session | <img src="https://github.com/user-attachments/assets/0ae674b1-7fe3-463b-81b5-04336f694968" height=150 width=150> <br/> [@HSH-11](https://github.com/HSH-11) <br/> Logging & Analytics | <img src="https://github.com/user-attachments/assets/8cd0c571-acbe-4f7b-b36c-0f78f1d0fbd2" height=150 width=150> <br/> [@tjdqls3607](https://github.com/tjdqls3607) <br/> NLP |
 
-
 ## 🚀 주요 기능
 
-<table>
+<table style="width: 100%; table-layout: fixed;">
 <tr>
-<td width="50%" valign="top">
+<td style="width: 48%; vertical-align: top; padding-right: 1%">
 
 ### Main
 
-<table>
+<table style="width: 100%;">
 <tr><th>기능</th><th>설명</th></tr>
-<tr><td>회원가입/로그인</td><td>- JWT 인증 방식<br>- RTR 방식</td></tr>
-<tr><td>이메일/비밀번호 찾기</td><td>- 사용자 개인정보를 이용하여 이메일 찾기<br>- 이메일로 비밀번호 재설정 링크 전송</td></tr>
-<tr><td>보안</td><td>- Spring Security 사용으로 접근 제한 처리</td></tr>
-<tr><td>마이페이지</td><td>- 가입한 요금제 조회<br>- 월별 사용량 조회<br>- 회원 정보 조회</td></tr>
-<tr><td>요금제 검색/비교</td><td>- 요금제 목록(인기순/데이터/가격순) 조회 가능<br>- 요금제 상세 정보 페이지<br>- 요금제 비교 페이지</td></tr>
-<tr><td>AI</td><td>- 챗봇 사용자 맞춤 상담 진행<br>- 요금제 상세페이지 내 리뷰 요약 AI</td></tr>
+<tr><td>회원가입/로그인</td><td>JWT 인증 방식<br>RTR 방식</td></tr>
+<tr><td>이메일/비밀번호 찾기</td><td>사용자 정보로 이메일 찾기<br>이메일로 비밀번호 재설정 링크 전송</td></tr>
+<tr><td>보안</td><td>Spring Security 기반 접근 제한</td></tr>
+<tr><td>마이페이지</td><td>가입한 요금제 조회<br>월별 사용량 조회<br>회원 정보 확인</td></tr>
+<tr><td>요금제 검색/비교</td><td>요금제 목록(인기순/데이터/가격순)<br>요금제 상세 페이지<br>요금제 비교</td></tr>
+<tr><td>AI</td><td>챗봇 맞춤 상담<br>요금제 상세페이지 내 리뷰 요약</td></tr>
 </table>
 
 </td>
-<td width="50%" valign="top">
+<td style="width: 48%; vertical-align: top; padding-left: 1%">
 
 ### Admin
 
-<table>
+<table style="width: 100%;">
 <tr><th>기능</th><th>설명</th></tr>
-<tr><td>관리자 회원가입/로그인</td><td>- JWT 인증 방식<br>- RTR 방식</td></tr>
-<tr><td>대시보드</td><td>- 챗봇 로그 기반 실시간 시각화 분석<br>- 의도·응답시간 등 주요 지표 모니터링</td></tr>
-<tr><td>사용자 분석</td><td>- 사용자의 회선을 기반으로<br>- 사용자 분석</td></tr>
-<tr><td>요금제 분석</td><td>- 모든 요금제 리스트 출력, 검색 및 정렬 필터<br>- 요금제 가입 현황 AI 분석을 통해 요금제 개선 사항 참고 가능</td></tr>
-<tr><td>금칙어 관리</td><td>- 금칙어 리스트</td></tr>
+<tr><td>관리자 로그인</td><td>JWT 인증 방식<br>RTR 방식</td></tr>
+<tr><td>대시보드</td><td>챗봇 로그 기반 실시간 분석<br>의도·응답시간 지표 모니터링</td></tr>
+<tr><td>사용자 분석</td><td>회선 기반 사용자 분석</td></tr>
+<tr><td>요금제 분석</td><td>요금제 리스트 출력·검색·정렬<br>AI 분석 통한 개선점 파악</td></tr>
+<tr><td>금칙어 관리</td><td>금칙어 리스트</td></tr>
 </table>
 
 </td>
 </tr>
 </table>
+
 
 
 
