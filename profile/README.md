@@ -39,19 +39,19 @@
 
 ## 🚀 주요 기능
 
-<div align="center">
+<h2>🚀 주요 기능</h2>
 
 <table>
   <tr>
     <td valign="top" width="50%">
-      <h3 align="center">🧑‍💻 Main</h3>
+      <h3 align="center">👤 Main</h3>
       <table>
         <tr><th>기능</th><th>설명</th></tr>
         <tr><td>회원가입/로그인</td><td>- JWT 인증 방식<br>- RTR 방식</td></tr>
-        <tr><td>이메일/비밀번호 찾기</td><td>- 사용자 개인정보를 이용하여 이메일 찾기<br>- 이메일로 비밀번호 재설정 링크 전송</td></tr>
+        <tr><td>이메일/비밀번호 찾기</td><td>- 사용자 개인정보로 이메일 찾기<br>- 이메일로 비밀번호 재설정 링크 전송</td></tr>
         <tr><td>보안</td><td>-</td></tr>
         <tr><td>마이페이지</td><td>- 가입한 요금제 조회<br>- 월별 사용량 조회<br>- 회원 정보 조회</td></tr>
-        <tr><td>요금제 검색/비교</td><td>- 요금제 목록(인기순/데이터/가격순)<br>- 요금제 상세 정보 페이지<br>- 요금제 비교 페이지</td></tr>
+        <tr><td>요금제 검색/비교</td><td>- 요금제 목록(인기/데이터/가격순)<br>- 상세 정보 페이지<br>- 비교 페이지</td></tr>
         <tr><td>AI</td><td>- 요금제 상세페이지 내 리뷰 요약 AI</td></tr>
       </table>
     </td>
@@ -60,16 +60,8 @@
       <h3 align="center">🛠 Admin</h3>
       <table>
         <tr><th>기능</th><th>설명</th></tr>
-        <tr><td>관리자 회원가입/로그인</td><td>- JWT 인증 방식<br>- RTR 방식</td></tr>
-        <tr><td>대시보드</td><td>- 챗봇 로그 기반 실시간 시각화 분석<br>- 의도·응답시간 등 주요 지표 모니터링</td></tr>
-        <tr><td>사용자 분석</td><td>- 사용자의 회선을 기반으로<br>- 사용자 분석</td></tr>
-        <tr><td>요금제 분석</td><td>- 모든 요금제 리스트 출력, 검색 및 정렬 필터<br>- ~~~을 사용한 요금제 어떻게 어떻게 분석</td></tr>
-        <tr><td>금칙어 관리</td><td>- 금칙어 리스트</td></tr>
-      </table>
-    </td>
-  </tr>
-</table>
-</div>
+        <tr><td>관리자 로그인</td><td>- JWT 인증 방식<br>- RTR 방식</td></tr>
+
 
 https://github.com/suhyun9764/planit/blob/dev/README.md
 
