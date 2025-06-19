@@ -53,8 +53,9 @@
         <tr><td>AI</td><td>- 요금제 상세페이지 내 리뷰 요약 AI</td></tr>
       </table>
     </td>
+  </tr>
 
-  
+    <td valign="top" width="50%">
       <h3 align="center">🛠 Admin</h3>
       <table>
         <tr><th>기능</th><th>설명</th></tr>
@@ -65,7 +66,6 @@
         <tr><td>금칙어 관리</td><td>- 금칙어 등록/조회/삭제</td></tr>
       </table>
     </td>
-  </tr>
 </table>
 
 https://github.com/suhyun9764/planit/blob/dev/README.md
