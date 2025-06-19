@@ -35,7 +35,7 @@
 | <img src="https://github.com/user-attachments/assets/61d26e87-3fb4-4099-a698-03b5b3e314da" height=150 width=150> <br/> [@rxgx424](https://github.com/rxgx424) <br/> Auth & Session | <img src="https://github.com/user-attachments/assets/0ae674b1-7fe3-463b-81b5-04336f694968" height=150 width=150> <br/> [@HSH-11](https://github.com/HSH-11) <br/> Logging & Analytics | <img src="https://github.com/user-attachments/assets/8cd0c571-acbe-4f7b-b36c-0f78f1d0fbd2" height=150 width=150> <br/> [@tjdqls3607](https://github.com/tjdqls3607) <br/> NLP |
 
 ## 🚀 주요 기능
-
+<div align="center">
 <table>
 <tr>
 <td style="width: 49%; vertical-align: top; border-right: 1px solid #ccc; padding-right: 10px;">
@@ -70,7 +70,7 @@
 </td>
 </tr>
 </table>
-
+</div>
 
 
 https://github.com/suhyun9764/planit/blob/dev/README.md
