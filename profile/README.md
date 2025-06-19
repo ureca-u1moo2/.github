@@ -95,8 +95,6 @@
 </table>
 </div>
 
-https://github.com/suhyun9764/planit/blob/dev/README.md
-이거 참고해서 씁시다
 ---
 ## 🛠️ 기술 스택
 <div align="center">
