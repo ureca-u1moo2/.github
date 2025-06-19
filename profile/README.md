@@ -25,7 +25,7 @@
 </br>
 
 ## 👥 팀원 소개
-
+<div align="center">
 | 문태신(조장) | 장승범 | 신수현 | 이도연 |
 |:--:|:--:|:--:|:--:|
 | <img src="https://github.com/user-attachments/assets/cdad3cfb-bf0d-4388-a11e-44af0620193a" heigth=150 width=150> <br/> [@taeaeaexin](https://github.com/taeaeaexin) </br> Backoffice |  <img src="https://github.com/user-attachments/assets/d0157a3c-ef7d-4343-93ce-4b7cbcb9f439" heigth=150 width=150> <br/> [@JSeungBeom](https://github.com/JSeungBeom) <br/> Message Storage |  <img src="https://github.com/user-attachments/assets/f888c69e-4453-43fe-b1da-0e386d3f48da" heigth=150 width=150> <br/> [@suhyun9764](https://github.com/suhyun9764) <br/> Chat |  <img src="https://i.imgur.com/2MNf32S.png" heigth=150 width=150> <br/> [@doyeonLee-Luna](https://github.com/doyeonLee-Luna) <br/> Product |
@@ -33,7 +33,7 @@
 |하령경|허승현|정성빈|
 |:-:|:-:|:-:|
 | <img src="https://github.com/user-attachments/assets/61d26e87-3fb4-4099-a698-03b5b3e314da" height=150 width=150> <br/> [@rxgx424](https://github.com/rxgx424) <br/> Auth & Session | <img src="https://github.com/user-attachments/assets/0ae674b1-7fe3-463b-81b5-04336f694968" height=150 width=150> <br/> [@HSH-11](https://github.com/HSH-11) <br/> Logging & Analytics | <img src="https://github.com/user-attachments/assets/8cd0c571-acbe-4f7b-b36c-0f78f1d0fbd2" height=150 width=150> <br/> [@tjdqls3607](https://github.com/tjdqls3607) <br/> NLP |
-
+</div>
 ## 🚀 주요 기능
 <div align="center">
 <table>
