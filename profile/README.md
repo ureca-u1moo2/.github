@@ -54,7 +54,7 @@
       </table>
     </td>
 
-    <td valign="top" width="50%">
+  
       <h3 align="center">🛠 Admin</h3>
       <table>
         <tr><th>기능</th><th>설명</th></tr>
