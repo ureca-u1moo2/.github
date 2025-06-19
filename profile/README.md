@@ -72,9 +72,9 @@ https://github.com/suhyun9764/planit/blob/dev/README.md
 
 | 분야 | 스택 |
 | - | - |
-| Backend | [![stackticon](https://firebasestorage.googleapis.com/v0/b/stackticon-81399.appspot.com/o/images%2F1749775896881?alt=media&token=bf88811d-de5e-44a9-ac47-f1d39dfaf909)](https://github.com/msdio/stackticon) |
-| Frontend | [![stackticon](https://firebasestorage.googleapis.com/v0/b/stackticon-81399.appspot.com/o/images%2F1749777590165?alt=media&token=f55b0807-cadc-46e8-bea0-14fd84d9e809)](https://github.com/msdio/stackticon) |
-| AI/ML | [![stackticon](https://firebasestorage.googleapis.com/v0/b/stackticon-81399.appspot.com/o/images%2F1749777641448?alt=media&token=c616d550-0ac0-4652-8225-894a2c5f77d4)](https://github.com/msdio/stackticon) |
-| DevOps & Monitoring | [![stackticon](https://firebasestorage.googleapis.com/v0/b/stackticon-81399.appspot.com/o/images%2F1749777655750?alt=media&token=303f4505-1227-4b19-a884-bbf1e491f99c)](https://github.com/msdio/stackticon) |
+| Backend | [![stackticon](https://firebasestorage.googleapis.com/v0/b/stackticon-81399.appspot.com/o/images%2F1750320970954?alt=media&token=930c4d9b-06ba-43f8-a395-c956d01ebb9b)](https://github.com/msdio/stackticon) |
+| Frontend | [![stackticon](https://firebasestorage.googleapis.com/v0/b/stackticon-81399.appspot.com/o/images%2F1750321043857?alt=media&token=afc93f42-9d5e-4e6d-bf1a-a67ffd8e5cbd)](https://github.com/msdio/stackticon) |
+| AI/ML | [![stackticon](https://firebasestorage.googleapis.com/v0/b/stackticon-81399.appspot.com/o/images%2F1750321207033?alt=media&token=83196575-12ff-49fc-ab10-e98bb19c3bc9)](https://github.com/msdio/stackticon) |
+| DevOps & Monitoring | [![stackticon](https://firebasestorage.googleapis.com/v0/b/stackticon-81399.appspot.com/o/images%2F1750321248550?alt=media&token=b447ee61-68af-4528-9439-aeeeff93ccfb)](https://github.com/msdio/stackticon) |
 
 </div>
