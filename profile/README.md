@@ -133,6 +133,7 @@
 | 🛠 어드민 UML | [Lucid Chart](https://lucid.app/lucidchart/b060893d-c04f-456d-8c7b-ffebaf0d2942/edit?invitationId=inv_d9711542-1776-4475-8aee-e2b350d0b56e&referringApp=slack&page=0_0#) | 관리자 시스템 설계 |
 | 📋 멘토링 문서 | [Notion](https://www.notion.so/20f8f7bcc50a805f9c63c9e545837867) | 멘토링 기록 정리 |
 | 📝 수행일지 | [Google Docs](https://docs.google.com/document/d/18qC8GnYpRZdRfVA_0l-X0g1_VJ1Wr7gMZ659A6PfJX4/edit?tab=t.0) | 6월 2주차 프로젝트 수행일지 |
+| 🖥️ ERD | [ERD Cloud] (https://www.erdcloud.com/d/f25pp7HpDdBNEoeMK) | ERD 구성 |
 ---
 
 </div>
