@@ -266,3 +266,25 @@
 
 
 ---
+
+<div align="center">
+  <h3>🚀 함께 만들어가는 혁신적인 통신 서비스</h3>
+  <p><i>"AI와 함께하는 스마트한 통신 생활의 시작"</i></p>
+  
+  ---
+  
+  <p>
+    <img src="https://img.shields.io/badge/Made%20with-❤️-red?style=for-the-badge" alt="Made with Love"/>
+    <img src="https://img.shields.io/badge/Team-7%20Members-blue?style=for-the-badge" alt="Team Size"/>
+  </p>
+</div>
+
+---
+
+
+
+<div align="center">
+
+**🌟 Star를 눌러 프로젝트를 응원해주세요! 🌟**
+
+</div>
