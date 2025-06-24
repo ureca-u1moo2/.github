@@ -9,7 +9,7 @@
 
 </div>
 
-</br>
+<br/>
 
 ```
 요플레(Yoplait)는 어떤 요금제를 사용할 지 고민하시는 여러분들께 요금제 추천을 도와주는 AI 챗봇입니다.
@@ -21,8 +21,8 @@
 - 🗂️ Redis 와 MongoDB를 활용한 대화 내역 저장 및 분석  
 - 🛡️ 백오피스의 금칙어 관리, 사용자 및 요금제 분석 AI를 통한 서비스 품질 향상  
 - 📊 Elsaticsearch + Kibana 연동으로 사용자 행동 로그 시각화 및 분석
----
-</br>
+
+<br/>
 
 ## 👥 팀원 소개
 
@@ -33,7 +33,8 @@
 |하령경|허승현|정성빈|
 |:-:|:-:|:-:|
 | <img src="https://github.com/user-attachments/assets/61d26e87-3fb4-4099-a698-03b5b3e314da" height=150 width=150> <br/> [@rxgx424](https://github.com/rxgx424) <br/> Auth & Session | <img src="https://github.com/user-attachments/assets/0ae674b1-7fe3-463b-81b5-04336f694968" height=150 width=150> <br/> [@HSH-11](https://github.com/HSH-11) <br/> Logging & Analytics | <img src="https://github.com/user-attachments/assets/8cd0c571-acbe-4f7b-b36c-0f78f1d0fbd2" height=150 width=150> <br/> [@tjdqls3607](https://github.com/tjdqls3607) <br/> NLP |
----
+
+<br/>
 
 ## 💡 프로젝트 소개
 
@@ -46,6 +47,7 @@
 - 🗂️ **Redis 와 MongoDB**를 활용한 대화 내역 저장 및 분석
 - 📊 **Elsaticsearch + Kibana** 연동으로 사용자 행동 로그 시각화 및 분석
 
+<br/>
 
 ### ✨ 핵심 차별점
 
@@ -54,8 +56,9 @@
 | 🤖 AI 기반 분석 | 🎯 개인화 추천 | 💬 멀티턴 대화 |
 |:---:|:---:|:---:|
 | Gemini AI | 사용 성향 맞춤 분석 | 지능형 대화 시스템 |
----
 </div>
+
+<br/>
 
 ## 🚀 주요 기능
 <div align="center">
@@ -95,7 +98,7 @@
 </table>
 </div>
 
----
+<br/>
 
 ## 🛠 기술 스택
 
@@ -117,9 +120,10 @@
 ### DevOps & Monitoring
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kibana](https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=kibana&logoColor=white)
----
 
 </div>
+
+<br/>
 
 ## 🔗 프로젝트 자료
 
@@ -135,9 +139,10 @@
 | 📋 멘토링 문서 | [Notion](https://www.notion.so/20f8f7bcc50a805f9c63c9e545837867) | 멘토링 기록 정리 |
 | 📝 수행일지 | [Google Docs](https://docs.google.com/document/d/18qC8GnYpRZdRfVA_0l-X0g1_VJ1Wr7gMZ659A6PfJX4/edit?tab=t.0) | 6월 2주차 프로젝트 수행일지 |
 | 🖥️ ERD | [ERD Cloud](https://www.erdcloud.com/d/f25pp7HpDdBNEoeMK) | ERD 구성 |
----
 
 </div>
+
+<br/>
 
 ## ❓ 핵심 기술적 도전과제
 
@@ -186,9 +191,7 @@
 
 </details>
 
----
-
-
+<br/>
 
 ## 📈 프로젝트 진행 기록
 
@@ -217,7 +220,7 @@
 - [ ] OAuth 도입
 - [ ] ResTemplate -> WebClient 비동기 처리
 
----
+<br/>
 
 ### 🎯 6월 3주차
 
@@ -243,13 +246,11 @@
 - [ ] 시연영상 및 발표자료 문서작업
 - [ ] 더미데이터 제작 및 데이터 리팩토링
 
-
----
+<br/>
 
 ### 🎯 6월 4주차
 
 <div align="center">
-
 
 </div>
 
@@ -260,18 +261,16 @@
 - [x] 시연영상 및 발표자료 문서작업
 - [x] 더미데이터 제작 및 데이터 리팩토링
 
+<br/>
 
 #### 🎯 최종 목표
 - [ ] 프로젝트 완료 및 배포
-
-
----
+- [ ] 
+<br/>
 
 <div align="center">
   <h3>🚀 함께 만들어가는 혁신적인 통신 서비스</h3>
   <p><i>"AI와 함께하는 스마트한 통신 생활의 시작"</i></p>
-  
-  ---
   
   <p>
     <img src="https://img.shields.io/badge/Made%20with-❤️-red?style=for-the-badge" alt="Made with Love"/>
@@ -279,7 +278,6 @@
   </p>
 </div>
 
----
 
 
 
